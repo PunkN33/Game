@@ -1,0 +1,1286 @@
+fileFormatVersion: 2
+guid: 2dff5f87e6408404db05821ec6fcd1a9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Component#10_001
+    100004: Component#11_001
+    100006: Component#1_001
+    100008: Component#2_001
+    100010: Component#3_001
+    100012: Component#3_002
+    100014: Component#3_003
+    100016: Component#3_004
+    100018: Component#3_005
+    100020: Component#3_006
+    100022: Component#3_007
+    100024: Component#3_008
+    100026: Component#3_009
+    100028: Component#3_010
+    100030: Component#3_011
+    100032: Component#3_012
+    100034: Component#3_013
+    100036: Component#3_014
+    100038: Component#3_015
+    100040: Component#3_016
+    100042: Component#3_017
+    100044: Component#3_018
+    100046: Component#3_019
+    100048: Component#3_020
+    100050: Component#3_021
+    100052: Component#3_022
+    100054: Component#3_023
+    100056: Component#3_024
+    100058: Component#3_025
+    100060: Component#3_026
+    100062: Component#3_027
+    100064: Component#3_028
+    100066: Component#3_029
+    100068: Component#3_030
+    100070: Component#3_031
+    100072: Component#3_032
+    100074: Component#3_033
+    100076: Component#3_034
+    100078: Component#3_035
+    100080: Component#3_036
+    100082: Component#3_037
+    100084: Component#3_038
+    100086: Component#3_039
+    100088: Component#3_040
+    100090: Component#3_041
+    100092: Component#3_042
+    100094: Component#3_043
+    100096: Component#3_044
+    100098: Component#3_045
+    100100: Component#3_046
+    100102: Component#3_047
+    100104: Component#3_048
+    100106: Component#3_049
+    100108: Component#3_050
+    100110: Component#3_051
+    100112: Component#3_052
+    100114: Component#3_053
+    100116: Component#3_054
+    100118: Component#3_055
+    100120: Component#3_056
+    100122: Component#3_057
+    100124: Component#3_058
+    100126: Component#3_059
+    100128: Component#3_060
+    100130: Component#3_061
+    100132: Component#3_062
+    100134: Component#3_063
+    100136: Component#3_064
+    100138: Component#3_065
+    100140: Component#3_066
+    100142: Component#3_067
+    100144: Component#3_068
+    100146: Component#3_069
+    100148: Component#3_070
+    100150: Component#3_071
+    100152: Component#3_072
+    100154: Component#3_073
+    100156: Component#3_074
+    100158: Component#3_075
+    100160: Component#3_076
+    100162: Component#3_077
+    100164: Component#3_078
+    100166: Component#3_079
+    100168: Component#3_080
+    100170: Component#3_081
+    100172: Component#3_082
+    100174: Component#3_083
+    100176: Component#3_084
+    100178: Component#3_085
+    100180: Component#3_086
+    100182: Component#3_087
+    100184: Component#3_088
+    100186: Component#3_089
+    100188: Component#3_090
+    100190: Component#3_091
+    100192: Component#3_092
+    100194: Component#3_093
+    100196: Component#3_094
+    100198: Component#3_095
+    100200: Component#3_096
+    100202: Component#3_097
+    100204: Component#3_098
+    100206: Component#3_099
+    100208: Component#4_001
+    100210: Component#4_002
+    100212: Component#5_001
+    100214: Component#5_002
+    100216: Component#7_001
+    100218: Component#9_001
+    100220: "dobradi\xE7a do tipo palmela_001"
+    100222: "dobradi\xE7a do tipo palmela_002"
+    100224: "dobradi\xE7a do tipo palmela_003"
+    100226: "dobradi\xE7a do tipo palmela_004"
+    100228: "dobradi\xE7a do tipo palmela_005"
+    100230: "dobradi\xE7a do tipo palmela_006"
+    100232: "dobradi\xE7a do tipo palmela_007"
+    100234: "dobradi\xE7a do tipo palmela_008"
+    100236: "dobradi\xE7a do tipo palmela_009"
+    100238: "dobradi\xE7a do tipo palmela_010"
+    100240: "dobradi\xE7a do tipo palmela_011"
+    100242: "dobradi\xE7a do tipo palmela_012"
+    100244: "dobradi\xE7a f\xEAmea_001"
+    100246: "dobradi\xE7a f\xEAmea_002"
+    100248: "dobradi\xE7a f\xEAmea_003"
+    100250: "dobradi\xE7a f\xEAmea_004"
+    100252: "dobradi\xE7a f\xEAmea_005"
+    100254: "dobradi\xE7a f\xEAmea_006"
+    100256: "dobradi\xE7a f\xEAmea_007"
+    100258: "dobradi\xE7a f\xEAmea_008"
+    100260: "dobradi\xE7a f\xEAmea_009"
+    100262: "dobradi\xE7a f\xEAmea_010"
+    100264: "dobradi\xE7a f\xEAmea_011"
+    100266: "dobradi\xE7a f\xEAmea_012"
+    100268: "dobradi\xE7a macho_001"
+    100270: "dobradi\xE7a macho_002"
+    100272: "dobradi\xE7a macho_003"
+    100274: "dobradi\xE7a macho_004"
+    100276: "dobradi\xE7a macho_005"
+    100278: "dobradi\xE7a macho_006"
+    100280: "dobradi\xE7a macho_007"
+    100282: "dobradi\xE7a macho_008"
+    100284: "dobradi\xE7a macho_009"
+    100286: "dobradi\xE7a macho_010"
+    100288: "dobradi\xE7a macho_011"
+    100290: "dobradi\xE7a macho_012"
+    100292: Group_001
+    100294: Group_002
+    100296: Group_003
+    100298: Group_004
+    100300: Group_005
+    100302: Group_006
+    100304: Group_007
+    100306: Group_008
+    100308: Group_009
+    100310: Group_010
+    100312: Group_011
+    100314: Group_012
+    100316: Group_013
+    100318: Group_014
+    100320: Group_015
+    100322: Group_016
+    100324: Group_017
+    100326: Group_018
+    100328: Group_019
+    100330: Group_020
+    100332: Group_021
+    100334: Group_022
+    100336: Group_023
+    100338: Group_024
+    100340: Group_025
+    100342: Group_026
+    100344: Group_027
+    100346: Group_028
+    100348: Group_029
+    100350: Group_030
+    100352: Group_031
+    100354: Group_032
+    100356: Group_033
+    100358: Group_034
+    100360: Group_035
+    100362: Group_036
+    100364: Group_037
+    100366: Group_038
+    100368: Group_039
+    100370: Group_040
+    100372: Group_041
+    100374: Group_042
+    100376: Group_043
+    100378: Group_044
+    100380: Group_045
+    100382: Group_046
+    100384: Group_047
+    100386: Group_048
+    100388: Group_049
+    100390: Group_050
+    100392: Group_051
+    100394: Group_052
+    100396: Group_053
+    100398: Group_054
+    100400: Group_055
+    100402: Group_056
+    100404: Group_057
+    100406: Group_058
+    100408: Group_059
+    100410: Group_060
+    100412: Group_061
+    100414: Group_062
+    100416: Group_063
+    100418: Group_064
+    100420: Group_065
+    100422: Group_066
+    100424: Group_067
+    100426: Group_068
+    100428: Group_069
+    100430: Group_070
+    100432: Group_071
+    100434: Group_072
+    100436: Group_073
+    100438: Group_074
+    100440: Group_075
+    100442: Group_076
+    100444: Group_077
+    100446: Group_078
+    100448: Group_079
+    100450: Group_080
+    100452: Group_081
+    100454: Group_082
+    100456: Group_083
+    100458: Group_084
+    100460: Group_085
+    100462: Group_086
+    100464: Group_087
+    100466: Group_088
+    100468: Group_089
+    100470: Group_090
+    100472: Group_091
+    100474: "V\xC1LVULA DE DESCARGA DECA HYDRA DUO 2545C112_001"
+    400000: //RootNode
+    400002: Component#10_001
+    400004: Component#11_001
+    400006: Component#1_001
+    400008: Component#2_001
+    400010: Component#3_001
+    400012: Component#3_002
+    400014: Component#3_003
+    400016: Component#3_004
+    400018: Component#3_005
+    400020: Component#3_006
+    400022: Component#3_007
+    400024: Component#3_008
+    400026: Component#3_009
+    400028: Component#3_010
+    400030: Component#3_011
+    400032: Component#3_012
+    400034: Component#3_013
+    400036: Component#3_014
+    400038: Component#3_015
+    400040: Component#3_016
+    400042: Component#3_017
+    400044: Component#3_018
+    400046: Component#3_019
+    400048: Component#3_020
+    400050: Component#3_021
+    400052: Component#3_022
+    400054: Component#3_023
+    400056: Component#3_024
+    400058: Component#3_025
+    400060: Component#3_026
+    400062: Component#3_027
+    400064: Component#3_028
+    400066: Component#3_029
+    400068: Component#3_030
+    400070: Component#3_031
+    400072: Component#3_032
+    400074: Component#3_033
+    400076: Component#3_034
+    400078: Component#3_035
+    400080: Component#3_036
+    400082: Component#3_037
+    400084: Component#3_038
+    400086: Component#3_039
+    400088: Component#3_040
+    400090: Component#3_041
+    400092: Component#3_042
+    400094: Component#3_043
+    400096: Component#3_044
+    400098: Component#3_045
+    400100: Component#3_046
+    400102: Component#3_047
+    400104: Component#3_048
+    400106: Component#3_049
+    400108: Component#3_050
+    400110: Component#3_051
+    400112: Component#3_052
+    400114: Component#3_053
+    400116: Component#3_054
+    400118: Component#3_055
+    400120: Component#3_056
+    400122: Component#3_057
+    400124: Component#3_058
+    400126: Component#3_059
+    400128: Component#3_060
+    400130: Component#3_061
+    400132: Component#3_062
+    400134: Component#3_063
+    400136: Component#3_064
+    400138: Component#3_065
+    400140: Component#3_066
+    400142: Component#3_067
+    400144: Component#3_068
+    400146: Component#3_069
+    400148: Component#3_070
+    400150: Component#3_071
+    400152: Component#3_072
+    400154: Component#3_073
+    400156: Component#3_074
+    400158: Component#3_075
+    400160: Component#3_076
+    400162: Component#3_077
+    400164: Component#3_078
+    400166: Component#3_079
+    400168: Component#3_080
+    400170: Component#3_081
+    400172: Component#3_082
+    400174: Component#3_083
+    400176: Component#3_084
+    400178: Component#3_085
+    400180: Component#3_086
+    400182: Component#3_087
+    400184: Component#3_088
+    400186: Component#3_089
+    400188: Component#3_090
+    400190: Component#3_091
+    400192: Component#3_092
+    400194: Component#3_093
+    400196: Component#3_094
+    400198: Component#3_095
+    400200: Component#3_096
+    400202: Component#3_097
+    400204: Component#3_098
+    400206: Component#3_099
+    400208: Component#4_001
+    400210: Component#4_002
+    400212: Component#5_001
+    400214: Component#5_002
+    400216: Component#7_001
+    400218: Component#9_001
+    400220: "dobradi\xE7a do tipo palmela_001"
+    400222: "dobradi\xE7a do tipo palmela_002"
+    400224: "dobradi\xE7a do tipo palmela_003"
+    400226: "dobradi\xE7a do tipo palmela_004"
+    400228: "dobradi\xE7a do tipo palmela_005"
+    400230: "dobradi\xE7a do tipo palmela_006"
+    400232: "dobradi\xE7a do tipo palmela_007"
+    400234: "dobradi\xE7a do tipo palmela_008"
+    400236: "dobradi\xE7a do tipo palmela_009"
+    400238: "dobradi\xE7a do tipo palmela_010"
+    400240: "dobradi\xE7a do tipo palmela_011"
+    400242: "dobradi\xE7a do tipo palmela_012"
+    400244: "dobradi\xE7a f\xEAmea_001"
+    400246: "dobradi\xE7a f\xEAmea_002"
+    400248: "dobradi\xE7a f\xEAmea_003"
+    400250: "dobradi\xE7a f\xEAmea_004"
+    400252: "dobradi\xE7a f\xEAmea_005"
+    400254: "dobradi\xE7a f\xEAmea_006"
+    400256: "dobradi\xE7a f\xEAmea_007"
+    400258: "dobradi\xE7a f\xEAmea_008"
+    400260: "dobradi\xE7a f\xEAmea_009"
+    400262: "dobradi\xE7a f\xEAmea_010"
+    400264: "dobradi\xE7a f\xEAmea_011"
+    400266: "dobradi\xE7a f\xEAmea_012"
+    400268: "dobradi\xE7a macho_001"
+    400270: "dobradi\xE7a macho_002"
+    400272: "dobradi\xE7a macho_003"
+    400274: "dobradi\xE7a macho_004"
+    400276: "dobradi\xE7a macho_005"
+    400278: "dobradi\xE7a macho_006"
+    400280: "dobradi\xE7a macho_007"
+    400282: "dobradi\xE7a macho_008"
+    400284: "dobradi\xE7a macho_009"
+    400286: "dobradi\xE7a macho_010"
+    400288: "dobradi\xE7a macho_011"
+    400290: "dobradi\xE7a macho_012"
+    400292: Group_001
+    400294: Group_002
+    400296: Group_003
+    400298: Group_004
+    400300: Group_005
+    400302: Group_006
+    400304: Group_007
+    400306: Group_008
+    400308: Group_009
+    400310: Group_010
+    400312: Group_011
+    400314: Group_012
+    400316: Group_013
+    400318: Group_014
+    400320: Group_015
+    400322: Group_016
+    400324: Group_017
+    400326: Group_018
+    400328: Group_019
+    400330: Group_020
+    400332: Group_021
+    400334: Group_022
+    400336: Group_023
+    400338: Group_024
+    400340: Group_025
+    400342: Group_026
+    400344: Group_027
+    400346: Group_028
+    400348: Group_029
+    400350: Group_030
+    400352: Group_031
+    400354: Group_032
+    400356: Group_033
+    400358: Group_034
+    400360: Group_035
+    400362: Group_036
+    400364: Group_037
+    400366: Group_038
+    400368: Group_039
+    400370: Group_040
+    400372: Group_041
+    400374: Group_042
+    400376: Group_043
+    400378: Group_044
+    400380: Group_045
+    400382: Group_046
+    400384: Group_047
+    400386: Group_048
+    400388: Group_049
+    400390: Group_050
+    400392: Group_051
+    400394: Group_052
+    400396: Group_053
+    400398: Group_054
+    400400: Group_055
+    400402: Group_056
+    400404: Group_057
+    400406: Group_058
+    400408: Group_059
+    400410: Group_060
+    400412: Group_061
+    400414: Group_062
+    400416: Group_063
+    400418: Group_064
+    400420: Group_065
+    400422: Group_066
+    400424: Group_067
+    400426: Group_068
+    400428: Group_069
+    400430: Group_070
+    400432: Group_071
+    400434: Group_072
+    400436: Group_073
+    400438: Group_074
+    400440: Group_075
+    400442: Group_076
+    400444: Group_077
+    400446: Group_078
+    400448: Group_079
+    400450: Group_080
+    400452: Group_081
+    400454: Group_082
+    400456: Group_083
+    400458: Group_084
+    400460: Group_085
+    400462: Group_086
+    400464: Group_087
+    400466: Group_088
+    400468: Group_089
+    400470: Group_090
+    400472: Group_091
+    400474: "V\xC1LVULA DE DESCARGA DECA HYDRA DUO 2545C112_001"
+    2100000: Color_001
+    2100002: '[Color_002]2'
+    2100004: skp_front_default
+    2100006: '[Color_005]1'
+    2100008: Color_000
+    2100010: '[Color_002]1'
+    2100012: Metal_Rough
+    2100014: Stone_Vein_Gray
+    2300000: Component#10_001
+    2300002: Component#11_001
+    2300004: Component#1_001
+    2300006: Component#2_001
+    2300008: Component#3_001
+    2300010: Component#3_002
+    2300012: Component#3_003
+    2300014: Component#3_004
+    2300016: Component#3_005
+    2300018: Component#3_006
+    2300020: Component#3_007
+    2300022: Component#3_008
+    2300024: Component#3_009
+    2300026: Component#3_010
+    2300028: Component#3_011
+    2300030: Component#3_012
+    2300032: Component#3_013
+    2300034: Component#3_014
+    2300036: Component#3_015
+    2300038: Component#3_016
+    2300040: Component#3_017
+    2300042: Component#3_018
+    2300044: Component#3_019
+    2300046: Component#3_020
+    2300048: Component#3_021
+    2300050: Component#3_022
+    2300052: Component#3_023
+    2300054: Component#3_024
+    2300056: Component#3_025
+    2300058: Component#3_026
+    2300060: Component#3_027
+    2300062: Component#3_028
+    2300064: Component#3_029
+    2300066: Component#3_030
+    2300068: Component#3_031
+    2300070: Component#3_032
+    2300072: Component#3_033
+    2300074: Component#3_034
+    2300076: Component#3_035
+    2300078: Component#3_036
+    2300080: Component#3_037
+    2300082: Component#3_038
+    2300084: Component#3_039
+    2300086: Component#3_040
+    2300088: Component#3_041
+    2300090: Component#3_042
+    2300092: Component#3_043
+    2300094: Component#3_044
+    2300096: Component#3_045
+    2300098: Component#3_046
+    2300100: Component#3_047
+    2300102: Component#3_048
+    2300104: Component#3_049
+    2300106: Component#3_050
+    2300108: Component#3_051
+    2300110: Component#3_052
+    2300112: Component#3_053
+    2300114: Component#3_054
+    2300116: Component#3_055
+    2300118: Component#3_056
+    2300120: Component#3_057
+    2300122: Component#3_058
+    2300124: Component#3_059
+    2300126: Component#3_060
+    2300128: Component#3_061
+    2300130: Component#3_062
+    2300132: Component#3_063
+    2300134: Component#3_064
+    2300136: Component#3_065
+    2300138: Component#3_066
+    2300140: Component#3_067
+    2300142: Component#3_068
+    2300144: Component#3_069
+    2300146: Component#3_070
+    2300148: Component#3_071
+    2300150: Component#3_072
+    2300152: Component#3_073
+    2300154: Component#3_074
+    2300156: Component#3_075
+    2300158: Component#3_076
+    2300160: Component#3_077
+    2300162: Component#3_078
+    2300164: Component#3_079
+    2300166: Component#3_080
+    2300168: Component#3_081
+    2300170: Component#3_082
+    2300172: Component#3_083
+    2300174: Component#3_084
+    2300176: Component#3_085
+    2300178: Component#3_086
+    2300180: Component#3_087
+    2300182: Component#3_088
+    2300184: Component#3_089
+    2300186: Component#3_090
+    2300188: Component#3_091
+    2300190: Component#3_092
+    2300192: Component#3_093
+    2300194: Component#3_094
+    2300196: Component#3_095
+    2300198: Component#3_096
+    2300200: Component#3_097
+    2300202: Component#3_098
+    2300204: Component#3_099
+    2300206: Component#4_001
+    2300208: Component#4_002
+    2300210: Component#5_001
+    2300212: Component#5_002
+    2300214: Component#7_001
+    2300216: Component#9_001
+    2300218: "dobradi\xE7a do tipo palmela_001"
+    2300220: "dobradi\xE7a do tipo palmela_002"
+    2300222: "dobradi\xE7a do tipo palmela_003"
+    2300224: "dobradi\xE7a do tipo palmela_004"
+    2300226: "dobradi\xE7a do tipo palmela_005"
+    2300228: "dobradi\xE7a do tipo palmela_006"
+    2300230: "dobradi\xE7a do tipo palmela_007"
+    2300232: "dobradi\xE7a do tipo palmela_008"
+    2300234: "dobradi\xE7a do tipo palmela_009"
+    2300236: "dobradi\xE7a do tipo palmela_010"
+    2300238: "dobradi\xE7a do tipo palmela_011"
+    2300240: "dobradi\xE7a do tipo palmela_012"
+    2300242: "dobradi\xE7a f\xEAmea_001"
+    2300244: "dobradi\xE7a f\xEAmea_002"
+    2300246: "dobradi\xE7a f\xEAmea_003"
+    2300248: "dobradi\xE7a f\xEAmea_004"
+    2300250: "dobradi\xE7a f\xEAmea_005"
+    2300252: "dobradi\xE7a f\xEAmea_006"
+    2300254: "dobradi\xE7a f\xEAmea_007"
+    2300256: "dobradi\xE7a f\xEAmea_008"
+    2300258: "dobradi\xE7a f\xEAmea_009"
+    2300260: "dobradi\xE7a f\xEAmea_010"
+    2300262: "dobradi\xE7a f\xEAmea_011"
+    2300264: "dobradi\xE7a f\xEAmea_012"
+    2300266: "dobradi\xE7a macho_001"
+    2300268: "dobradi\xE7a macho_002"
+    2300270: "dobradi\xE7a macho_003"
+    2300272: "dobradi\xE7a macho_004"
+    2300274: "dobradi\xE7a macho_005"
+    2300276: "dobradi\xE7a macho_006"
+    2300278: "dobradi\xE7a macho_007"
+    2300280: "dobradi\xE7a macho_008"
+    2300282: "dobradi\xE7a macho_009"
+    2300284: "dobradi\xE7a macho_010"
+    2300286: "dobradi\xE7a macho_011"
+    2300288: "dobradi\xE7a macho_012"
+    2300290: Group_001
+    2300292: Group_002
+    2300294: Group_003
+    2300296: Group_004
+    2300298: Group_005
+    2300300: Group_006
+    2300302: Group_007
+    2300304: Group_008
+    2300306: Group_009
+    2300308: Group_010
+    2300310: Group_011
+    2300312: Group_012
+    2300314: Group_013
+    2300316: Group_014
+    2300318: Group_015
+    2300320: Group_016
+    2300322: Group_017
+    2300324: Group_018
+    2300326: Group_019
+    2300328: Group_020
+    2300330: Group_021
+    2300332: Group_022
+    2300334: Group_023
+    2300336: Group_024
+    2300338: Group_025
+    2300340: Group_026
+    2300342: Group_027
+    2300344: Group_028
+    2300346: Group_029
+    2300348: Group_030
+    2300350: Group_031
+    2300352: Group_032
+    2300354: Group_033
+    2300356: Group_034
+    2300358: Group_035
+    2300360: Group_036
+    2300362: Group_037
+    2300364: Group_038
+    2300366: Group_039
+    2300368: Group_040
+    2300370: Group_041
+    2300372: Group_042
+    2300374: Group_043
+    2300376: Group_044
+    2300378: Group_045
+    2300380: Group_046
+    2300382: Group_047
+    2300384: Group_048
+    2300386: Group_049
+    2300388: Group_050
+    2300390: Group_051
+    2300392: Group_052
+    2300394: Group_053
+    2300396: Group_054
+    2300398: Group_055
+    2300400: Group_056
+    2300402: Group_057
+    2300404: Group_058
+    2300406: Group_059
+    2300408: Group_060
+    2300410: Group_061
+    2300412: Group_062
+    2300414: Group_063
+    2300416: Group_064
+    2300418: Group_065
+    2300420: Group_066
+    2300422: Group_067
+    2300424: Group_068
+    2300426: Group_069
+    2300428: Group_070
+    2300430: Group_071
+    2300432: Group_072
+    2300434: Group_073
+    2300436: Group_074
+    2300438: Group_075
+    2300440: Group_076
+    2300442: Group_077
+    2300444: Group_078
+    2300446: Group_079
+    2300448: Group_080
+    2300450: Group_081
+    2300452: Group_082
+    2300454: Group_083
+    2300456: Group_084
+    2300458: Group_085
+    2300460: Group_086
+    2300462: Group_087
+    2300464: Group_088
+    2300466: Group_089
+    2300468: Group_090
+    2300470: Group_091
+    2300472: "V\xC1LVULA DE DESCARGA DECA HYDRA DUO 2545C112_001"
+    3300000: Component#10_001
+    3300002: Component#11_001
+    3300004: Component#1_001
+    3300006: Component#2_001
+    3300008: Component#3_001
+    3300010: Component#3_002
+    3300012: Component#3_003
+    3300014: Component#3_004
+    3300016: Component#3_005
+    3300018: Component#3_006
+    3300020: Component#3_007
+    3300022: Component#3_008
+    3300024: Component#3_009
+    3300026: Component#3_010
+    3300028: Component#3_011
+    3300030: Component#3_012
+    3300032: Component#3_013
+    3300034: Component#3_014
+    3300036: Component#3_015
+    3300038: Component#3_016
+    3300040: Component#3_017
+    3300042: Component#3_018
+    3300044: Component#3_019
+    3300046: Component#3_020
+    3300048: Component#3_021
+    3300050: Component#3_022
+    3300052: Component#3_023
+    3300054: Component#3_024
+    3300056: Component#3_025
+    3300058: Component#3_026
+    3300060: Component#3_027
+    3300062: Component#3_028
+    3300064: Component#3_029
+    3300066: Component#3_030
+    3300068: Component#3_031
+    3300070: Component#3_032
+    3300072: Component#3_033
+    3300074: Component#3_034
+    3300076: Component#3_035
+    3300078: Component#3_036
+    3300080: Component#3_037
+    3300082: Component#3_038
+    3300084: Component#3_039
+    3300086: Component#3_040
+    3300088: Component#3_041
+    3300090: Component#3_042
+    3300092: Component#3_043
+    3300094: Component#3_044
+    3300096: Component#3_045
+    3300098: Component#3_046
+    3300100: Component#3_047
+    3300102: Component#3_048
+    3300104: Component#3_049
+    3300106: Component#3_050
+    3300108: Component#3_051
+    3300110: Component#3_052
+    3300112: Component#3_053
+    3300114: Component#3_054
+    3300116: Component#3_055
+    3300118: Component#3_056
+    3300120: Component#3_057
+    3300122: Component#3_058
+    3300124: Component#3_059
+    3300126: Component#3_060
+    3300128: Component#3_061
+    3300130: Component#3_062
+    3300132: Component#3_063
+    3300134: Component#3_064
+    3300136: Component#3_065
+    3300138: Component#3_066
+    3300140: Component#3_067
+    3300142: Component#3_068
+    3300144: Component#3_069
+    3300146: Component#3_070
+    3300148: Component#3_071
+    3300150: Component#3_072
+    3300152: Component#3_073
+    3300154: Component#3_074
+    3300156: Component#3_075
+    3300158: Component#3_076
+    3300160: Component#3_077
+    3300162: Component#3_078
+    3300164: Component#3_079
+    3300166: Component#3_080
+    3300168: Component#3_081
+    3300170: Component#3_082
+    3300172: Component#3_083
+    3300174: Component#3_084
+    3300176: Component#3_085
+    3300178: Component#3_086
+    3300180: Component#3_087
+    3300182: Component#3_088
+    3300184: Component#3_089
+    3300186: Component#3_090
+    3300188: Component#3_091
+    3300190: Component#3_092
+    3300192: Component#3_093
+    3300194: Component#3_094
+    3300196: Component#3_095
+    3300198: Component#3_096
+    3300200: Component#3_097
+    3300202: Component#3_098
+    3300204: Component#3_099
+    3300206: Component#4_001
+    3300208: Component#4_002
+    3300210: Component#5_001
+    3300212: Component#5_002
+    3300214: Component#7_001
+    3300216: Component#9_001
+    3300218: "dobradi\xE7a do tipo palmela_001"
+    3300220: "dobradi\xE7a do tipo palmela_002"
+    3300222: "dobradi\xE7a do tipo palmela_003"
+    3300224: "dobradi\xE7a do tipo palmela_004"
+    3300226: "dobradi\xE7a do tipo palmela_005"
+    3300228: "dobradi\xE7a do tipo palmela_006"
+    3300230: "dobradi\xE7a do tipo palmela_007"
+    3300232: "dobradi\xE7a do tipo palmela_008"
+    3300234: "dobradi\xE7a do tipo palmela_009"
+    3300236: "dobradi\xE7a do tipo palmela_010"
+    3300238: "dobradi\xE7a do tipo palmela_011"
+    3300240: "dobradi\xE7a do tipo palmela_012"
+    3300242: "dobradi\xE7a f\xEAmea_001"
+    3300244: "dobradi\xE7a f\xEAmea_002"
+    3300246: "dobradi\xE7a f\xEAmea_003"
+    3300248: "dobradi\xE7a f\xEAmea_004"
+    3300250: "dobradi\xE7a f\xEAmea_005"
+    3300252: "dobradi\xE7a f\xEAmea_006"
+    3300254: "dobradi\xE7a f\xEAmea_007"
+    3300256: "dobradi\xE7a f\xEAmea_008"
+    3300258: "dobradi\xE7a f\xEAmea_009"
+    3300260: "dobradi\xE7a f\xEAmea_010"
+    3300262: "dobradi\xE7a f\xEAmea_011"
+    3300264: "dobradi\xE7a f\xEAmea_012"
+    3300266: "dobradi\xE7a macho_001"
+    3300268: "dobradi\xE7a macho_002"
+    3300270: "dobradi\xE7a macho_003"
+    3300272: "dobradi\xE7a macho_004"
+    3300274: "dobradi\xE7a macho_005"
+    3300276: "dobradi\xE7a macho_006"
+    3300278: "dobradi\xE7a macho_007"
+    3300280: "dobradi\xE7a macho_008"
+    3300282: "dobradi\xE7a macho_009"
+    3300284: "dobradi\xE7a macho_010"
+    3300286: "dobradi\xE7a macho_011"
+    3300288: "dobradi\xE7a macho_012"
+    3300290: Group_001
+    3300292: Group_002
+    3300294: Group_003
+    3300296: Group_004
+    3300298: Group_005
+    3300300: Group_006
+    3300302: Group_007
+    3300304: Group_008
+    3300306: Group_009
+    3300308: Group_010
+    3300310: Group_011
+    3300312: Group_012
+    3300314: Group_013
+    3300316: Group_014
+    3300318: Group_015
+    3300320: Group_016
+    3300322: Group_017
+    3300324: Group_018
+    3300326: Group_019
+    3300328: Group_020
+    3300330: Group_021
+    3300332: Group_022
+    3300334: Group_023
+    3300336: Group_024
+    3300338: Group_025
+    3300340: Group_026
+    3300342: Group_027
+    3300344: Group_028
+    3300346: Group_029
+    3300348: Group_030
+    3300350: Group_031
+    3300352: Group_032
+    3300354: Group_033
+    3300356: Group_034
+    3300358: Group_035
+    3300360: Group_036
+    3300362: Group_037
+    3300364: Group_038
+    3300366: Group_039
+    3300368: Group_040
+    3300370: Group_041
+    3300372: Group_042
+    3300374: Group_043
+    3300376: Group_044
+    3300378: Group_045
+    3300380: Group_046
+    3300382: Group_047
+    3300384: Group_048
+    3300386: Group_049
+    3300388: Group_050
+    3300390: Group_051
+    3300392: Group_052
+    3300394: Group_053
+    3300396: Group_054
+    3300398: Group_055
+    3300400: Group_056
+    3300402: Group_057
+    3300404: Group_058
+    3300406: Group_059
+    3300408: Group_060
+    3300410: Group_061
+    3300412: Group_062
+    3300414: Group_063
+    3300416: Group_064
+    3300418: Group_065
+    3300420: Group_066
+    3300422: Group_067
+    3300424: Group_068
+    3300426: Group_069
+    3300428: Group_070
+    3300430: Group_071
+    3300432: Group_072
+    3300434: Group_073
+    3300436: Group_074
+    3300438: Group_075
+    3300440: Group_076
+    3300442: Group_077
+    3300444: Group_078
+    3300446: Group_079
+    3300448: Group_080
+    3300450: Group_081
+    3300452: Group_082
+    3300454: Group_083
+    3300456: Group_084
+    3300458: Group_085
+    3300460: Group_086
+    3300462: Group_087
+    3300464: Group_088
+    3300466: Group_089
+    3300468: Group_090
+    3300470: Group_091
+    3300472: "V\xC1LVULA DE DESCARGA DECA HYDRA DUO 2545C112_001"
+    4300000: Component#11_001
+    4300002: Component#9_001
+    4300004: Component#10_001
+    4300006: "V\xC1LVULA DE DESCARGA DECA HYDRA DUO 2545C112_001"
+    4300008: Component#5_002
+    4300010: Component#5_001
+    4300012: Component#4_002
+    4300014: Component#4_001
+    4300016: Component#7_001
+    4300018: Component#3_099
+    4300020: Component#3_098
+    4300022: Component#3_097
+    4300024: Component#3_096
+    4300026: Component#3_095
+    4300028: Component#3_094
+    4300030: Component#3_093
+    4300032: Component#3_092
+    4300034: Component#3_091
+    4300036: Component#3_090
+    4300038: Component#3_089
+    4300040: Component#3_088
+    4300042: Component#3_087
+    4300044: Component#3_086
+    4300046: Component#3_085
+    4300048: Component#3_084
+    4300050: Component#3_083
+    4300052: Component#3_082
+    4300054: Component#3_081
+    4300056: Component#3_080
+    4300058: Component#3_079
+    4300060: Component#3_078
+    4300062: Component#3_077
+    4300064: Component#3_076
+    4300066: Component#3_075
+    4300068: Component#3_074
+    4300070: Component#3_073
+    4300072: Component#3_072
+    4300074: Component#3_071
+    4300076: Component#3_070
+    4300078: Component#3_069
+    4300080: Component#3_068
+    4300082: Component#3_067
+    4300084: Component#3_066
+    4300086: Component#3_065
+    4300088: Component#3_064
+    4300090: Component#3_063
+    4300092: Component#3_062
+    4300094: Component#3_061
+    4300096: Component#3_060
+    4300098: Component#3_059
+    4300100: Component#3_058
+    4300102: Component#3_057
+    4300104: Component#3_056
+    4300106: Component#3_055
+    4300108: Component#3_054
+    4300110: Component#3_053
+    4300112: Component#3_052
+    4300114: Component#3_051
+    4300116: Component#3_050
+    4300118: Component#3_049
+    4300120: Component#3_048
+    4300122: Component#3_047
+    4300124: Component#3_046
+    4300126: Component#3_045
+    4300128: Component#3_044
+    4300130: Component#3_043
+    4300132: Component#3_042
+    4300134: Component#3_041
+    4300136: Component#3_040
+    4300138: Component#3_039
+    4300140: Component#3_038
+    4300142: Component#3_037
+    4300144: Component#3_036
+    4300146: Component#3_035
+    4300148: Component#3_034
+    4300150: Component#3_033
+    4300152: Component#3_032
+    4300154: Component#3_031
+    4300156: Component#3_030
+    4300158: Component#3_029
+    4300160: Component#3_028
+    4300162: Component#3_027
+    4300164: Component#3_026
+    4300166: Component#3_025
+    4300168: Component#3_024
+    4300170: Component#3_023
+    4300172: Component#3_022
+    4300174: Component#3_021
+    4300176: Component#3_020
+    4300178: Component#3_019
+    4300180: Component#3_018
+    4300182: Component#3_017
+    4300184: Component#3_016
+    4300186: Component#3_015
+    4300188: Component#3_014
+    4300190: Component#3_013
+    4300192: Component#3_012
+    4300194: Component#3_011
+    4300196: Component#3_010
+    4300198: Component#3_009
+    4300200: Component#3_008
+    4300202: Component#3_007
+    4300204: Component#3_006
+    4300206: Component#3_005
+    4300208: Component#3_004
+    4300210: Component#3_003
+    4300212: Component#3_002
+    4300214: Component#3_001
+    4300216: Component#2_001
+    4300218: Component#1_001
+    4300220: Group_091
+    4300222: Group_090
+    4300224: Group_089
+    4300226: Group_088
+    4300228: Group_087
+    4300230: Group_086
+    4300232: "dobradi\xE7a f\xEAmea_012"
+    4300234: Group_085
+    4300236: "dobradi\xE7a macho_012"
+    4300238: "dobradi\xE7a do tipo palmela_012"
+    4300240: Group_084
+    4300242: Group_083
+    4300244: Group_082
+    4300246: Group_081
+    4300248: Group_080
+    4300250: Group_079
+    4300252: "dobradi\xE7a f\xEAmea_011"
+    4300254: Group_078
+    4300256: "dobradi\xE7a macho_011"
+    4300258: "dobradi\xE7a do tipo palmela_011"
+    4300260: Group_077
+    4300262: Group_076
+    4300264: Group_075
+    4300266: Group_074
+    4300268: Group_073
+    4300270: Group_072
+    4300272: "dobradi\xE7a f\xEAmea_010"
+    4300274: Group_071
+    4300276: "dobradi\xE7a macho_010"
+    4300278: "dobradi\xE7a do tipo palmela_010"
+    4300280: Group_070
+    4300282: Group_069
+    4300284: Group_068
+    4300286: Group_067
+    4300288: Group_066
+    4300290: Group_065
+    4300292: "dobradi\xE7a f\xEAmea_009"
+    4300294: Group_064
+    4300296: "dobradi\xE7a macho_009"
+    4300298: "dobradi\xE7a do tipo palmela_009"
+    4300300: Group_063
+    4300302: Group_062
+    4300304: Group_061
+    4300306: Group_060
+    4300308: Group_059
+    4300310: Group_058
+    4300312: "dobradi\xE7a f\xEAmea_008"
+    4300314: Group_057
+    4300316: "dobradi\xE7a macho_008"
+    4300318: "dobradi\xE7a do tipo palmela_008"
+    4300320: Group_056
+    4300322: Group_055
+    4300324: Group_054
+    4300326: Group_053
+    4300328: Group_052
+    4300330: Group_051
+    4300332: "dobradi\xE7a f\xEAmea_007"
+    4300334: Group_050
+    4300336: "dobradi\xE7a macho_007"
+    4300338: "dobradi\xE7a do tipo palmela_007"
+    4300340: Group_049
+    4300342: Group_048
+    4300344: Group_047
+    4300346: Group_046
+    4300348: Group_045
+    4300350: Group_044
+    4300352: "dobradi\xE7a f\xEAmea_006"
+    4300354: Group_043
+    4300356: "dobradi\xE7a macho_006"
+    4300358: "dobradi\xE7a do tipo palmela_006"
+    4300360: Group_042
+    4300362: Group_041
+    4300364: Group_040
+    4300366: Group_039
+    4300368: Group_038
+    4300370: Group_037
+    4300372: "dobradi\xE7a f\xEAmea_005"
+    4300374: Group_036
+    4300376: "dobradi\xE7a macho_005"
+    4300378: "dobradi\xE7a do tipo palmela_005"
+    4300380: Group_035
+    4300382: Group_034
+    4300384: Group_033
+    4300386: Group_032
+    4300388: Group_031
+    4300390: Group_030
+    4300392: "dobradi\xE7a f\xEAmea_004"
+    4300394: Group_029
+    4300396: "dobradi\xE7a macho_004"
+    4300398: "dobradi\xE7a do tipo palmela_004"
+    4300400: Group_028
+    4300402: Group_027
+    4300404: Group_026
+    4300406: Group_025
+    4300408: Group_024
+    4300410: Group_023
+    4300412: "dobradi\xE7a f\xEAmea_003"
+    4300414: Group_022
+    4300416: "dobradi\xE7a macho_003"
+    4300418: "dobradi\xE7a do tipo palmela_003"
+    4300420: Group_021
+    4300422: Group_020
+    4300424: Group_019
+    4300426: Group_018
+    4300428: Group_017
+    4300430: Group_016
+    4300432: "dobradi\xE7a f\xEAmea_002"
+    4300434: Group_015
+    4300436: "dobradi\xE7a macho_002"
+    4300438: "dobradi\xE7a do tipo palmela_002"
+    4300440: Group_014
+    4300442: Group_013
+    4300444: Group_012
+    4300446: Group_011
+    4300448: Group_010
+    4300450: Group_009
+    4300452: "dobradi\xE7a f\xEAmea_001"
+    4300454: Group_008
+    4300456: "dobradi\xE7a macho_001"
+    4300458: "dobradi\xE7a do tipo palmela_001"
+    4300460: Group_007
+    4300462: Group_006
+    4300464: Group_005
+    4300466: Group_004
+    4300468: Group_003
+    4300470: Group_002
+    4300472: Group_001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

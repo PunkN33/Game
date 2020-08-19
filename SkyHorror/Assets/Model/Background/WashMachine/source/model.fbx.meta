@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 1691dd8ac64b53d4d8b3cfa74fab837e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Anneaux_low
+    100002: Boite_low
+    100004: Bras_low
+    100006: Cable_low
+    100008: Cadre_Ecran_low
+    100010: Camera_low
+    100012: Camera_vision_low
+    100014: Digital_low
+    100016: Ecran_low
+    100018: Embouts_haut_low
+    100020: Embouts_low
+    100022: Ext_baterie_low
+    100024: Int_batterie_low
+    100026: //RootNode
+    100028: Plaque_basse_low
+    100030: Plaque_central_low
+    100032: Plaque_low
+    100034: Porte_low
+    100036: Support_ecran_low
+    100038: Support_low
+    400000: Anneaux_low
+    400002: Boite_low
+    400004: Bras_low
+    400006: Cable_low
+    400008: Cadre_Ecran_low
+    400010: Camera_low
+    400012: Camera_vision_low
+    400014: Digital_low
+    400016: Ecran_low
+    400018: Embouts_haut_low
+    400020: Embouts_low
+    400022: Ext_baterie_low
+    400024: Int_batterie_low
+    400026: //RootNode
+    400028: Plaque_basse_low
+    400030: Plaque_central_low
+    400032: Plaque_low
+    400034: Porte_low
+    400036: Support_ecran_low
+    400038: Support_low
+    2100000: lambert1
+    2300000: Anneaux_low
+    2300002: Boite_low
+    2300004: Bras_low
+    2300006: Cable_low
+    2300008: Cadre_Ecran_low
+    2300010: Camera_low
+    2300012: Camera_vision_low
+    2300014: Digital_low
+    2300016: Ecran_low
+    2300018: Embouts_haut_low
+    2300020: Embouts_low
+    2300022: Ext_baterie_low
+    2300024: Int_batterie_low
+    2300026: Plaque_basse_low
+    2300028: Plaque_central_low
+    2300030: Plaque_low
+    2300032: Porte_low
+    2300034: Support_ecran_low
+    2300036: Support_low
+    3300000: Anneaux_low
+    3300002: Boite_low
+    3300004: Bras_low
+    3300006: Cable_low
+    3300008: Cadre_Ecran_low
+    3300010: Camera_low
+    3300012: Camera_vision_low
+    3300014: Digital_low
+    3300016: Ecran_low
+    3300018: Embouts_haut_low
+    3300020: Embouts_low
+    3300022: Ext_baterie_low
+    3300024: Int_batterie_low
+    3300026: Plaque_basse_low
+    3300028: Plaque_central_low
+    3300030: Plaque_low
+    3300032: Porte_low
+    3300034: Support_ecran_low
+    3300036: Support_low
+    4300000: Anneaux_low
+    4300002: Ecran_low
+    4300004: Cadre_Ecran_low
+    4300006: Bras_low
+    4300008: Boite_low
+    4300010: Plaque_central_low
+    4300012: Plaque_low
+    4300014: Plaque_basse_low
+    4300016: Support_low
+    4300018: Digital_low
+    4300020: Int_batterie_low
+    4300022: Support_ecran_low
+    4300024: Embouts_low
+    4300026: Porte_low
+    4300028: Cable_low
+    4300030: Embouts_haut_low
+    4300032: Camera_vision_low
+    4300034: Camera_low
+    4300036: Ext_baterie_low
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: fa8e02ed4f2fef94da670aa7b7fadea6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

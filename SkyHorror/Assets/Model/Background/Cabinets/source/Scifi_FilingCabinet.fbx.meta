@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: b379de76b74d80d4da103064ab0694ac
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bakeObject.005_low.002
+    100002: bakeObject.005_low.003
+    100004: bakeObject.005_low.004
+    100006: bakeObject.005_low.005
+    100008: bakeObject.006_low.002
+    100010: bakeObject.006_low.003
+    100012: bakeObject.006_low.004
+    100014: bakeObject.006_low.005
+    100016: bakeObject.007_low.002
+    100018: bakeObject.007_low.003
+    100020: bakeObject.007_low.004
+    100022: bakeObject.007_low.005
+    100024: bakeObject.008_low.002
+    100026: bakeObject.008_low.003
+    100028: bakeObject.008_low.004
+    100030: bakeObject.008_low.005
+    100032: bakeObject.009_low.002
+    100034: bakeObject.009_low.003
+    100036: bakeObject.009_low.004
+    100038: bakeObject.009_low.005
+    100040: bakeObject.065_low.002
+    100042: bakeObject.065_low.003
+    100044: bakeObject.065_low.004
+    100046: bakeObject.065_low.005
+    100048: Plane
+    100050: Plane.001
+    100052: Plane.002
+    100054: Plane.003
+    100056: Plane.004
+    100058: Plane.005
+    100060: Plane.006
+    100062: //RootNode
+    400000: bakeObject.005_low.002
+    400002: bakeObject.005_low.003
+    400004: bakeObject.005_low.004
+    400006: bakeObject.005_low.005
+    400008: bakeObject.006_low.002
+    400010: bakeObject.006_low.003
+    400012: bakeObject.006_low.004
+    400014: bakeObject.006_low.005
+    400016: bakeObject.007_low.002
+    400018: bakeObject.007_low.003
+    400020: bakeObject.007_low.004
+    400022: bakeObject.007_low.005
+    400024: bakeObject.008_low.002
+    400026: bakeObject.008_low.003
+    400028: bakeObject.008_low.004
+    400030: bakeObject.008_low.005
+    400032: bakeObject.009_low.002
+    400034: bakeObject.009_low.003
+    400036: bakeObject.009_low.004
+    400038: bakeObject.009_low.005
+    400040: bakeObject.065_low.002
+    400042: bakeObject.065_low.003
+    400044: bakeObject.065_low.004
+    400046: bakeObject.065_low.005
+    400048: Plane
+    400050: Plane.001
+    400052: Plane.002
+    400054: Plane.003
+    400056: Plane.004
+    400058: Plane.005
+    400060: Plane.006
+    400062: //RootNode
+    2100000: Papers 4
+    2100002: Papers 2
+    2100004: MAT_FilingCabinet
+    2100006: Papers 3
+    2100008: Papers
+    2100010: No Name
+    2300000: bakeObject.005_low.002
+    2300002: bakeObject.005_low.003
+    2300004: bakeObject.005_low.004
+    2300006: bakeObject.005_low.005
+    2300008: bakeObject.006_low.002
+    2300010: bakeObject.006_low.003
+    2300012: bakeObject.006_low.004
+    2300014: bakeObject.006_low.005
+    2300016: bakeObject.007_low.002
+    2300018: bakeObject.007_low.003
+    2300020: bakeObject.007_low.004
+    2300022: bakeObject.007_low.005
+    2300024: bakeObject.008_low.002
+    2300026: bakeObject.008_low.003
+    2300028: bakeObject.008_low.004
+    2300030: bakeObject.008_low.005
+    2300032: bakeObject.009_low.002
+    2300034: bakeObject.009_low.003
+    2300036: bakeObject.009_low.004
+    2300038: bakeObject.009_low.005
+    2300040: bakeObject.065_low.002
+    2300042: bakeObject.065_low.003
+    2300044: bakeObject.065_low.004
+    2300046: bakeObject.065_low.005
+    2300048: Plane
+    2300050: Plane.001
+    2300052: Plane.002
+    2300054: Plane.003
+    2300056: Plane.004
+    2300058: Plane.005
+    2300060: Plane.006
+    3300000: bakeObject.005_low.002
+    3300002: bakeObject.005_low.003
+    3300004: bakeObject.005_low.004
+    3300006: bakeObject.005_low.005
+    3300008: bakeObject.006_low.002
+    3300010: bakeObject.006_low.003
+    3300012: bakeObject.006_low.004
+    3300014: bakeObject.006_low.005
+    3300016: bakeObject.007_low.002
+    3300018: bakeObject.007_low.003
+    3300020: bakeObject.007_low.004
+    3300022: bakeObject.007_low.005
+    3300024: bakeObject.008_low.002
+    3300026: bakeObject.008_low.003
+    3300028: bakeObject.008_low.004
+    3300030: bakeObject.008_low.005
+    3300032: bakeObject.009_low.002
+    3300034: bakeObject.009_low.003
+    3300036: bakeObject.009_low.004
+    3300038: bakeObject.009_low.005
+    3300040: bakeObject.065_low.002
+    3300042: bakeObject.065_low.003
+    3300044: bakeObject.065_low.004
+    3300046: bakeObject.065_low.005
+    3300048: Plane
+    3300050: Plane.001
+    3300052: Plane.002
+    3300054: Plane.003
+    3300056: Plane.004
+    3300058: Plane.005
+    3300060: Plane.006
+    4300000: Plane.006
+    4300002: Plane.005
+    4300004: bakeObject.065_low.005
+    4300006: bakeObject.005_low.005
+    4300008: bakeObject.006_low.005
+    4300010: bakeObject.007_low.005
+    4300012: bakeObject.008_low.005
+    4300014: bakeObject.009_low.005
+    4300016: bakeObject.065_low.004
+    4300018: bakeObject.009_low.004
+    4300020: bakeObject.008_low.004
+    4300022: bakeObject.007_low.004
+    4300024: bakeObject.006_low.004
+    4300026: bakeObject.005_low.004
+    4300028: bakeObject.065_low.003
+    4300030: bakeObject.005_low.003
+    4300032: bakeObject.006_low.003
+    4300034: bakeObject.007_low.003
+    4300036: bakeObject.008_low.003
+    4300038: bakeObject.009_low.003
+    4300040: Plane.004
+    4300042: Plane.003
+    4300044: Plane.002
+    4300046: Plane.001
+    4300048: Plane
+    4300050: bakeObject.065_low.002
+    4300052: bakeObject.009_low.002
+    4300054: bakeObject.008_low.002
+    4300056: bakeObject.007_low.002
+    4300058: bakeObject.006_low.002
+    4300060: bakeObject.005_low.002
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_FilingCabinet
+    second: {fileID: 2100000, guid: 9a22a890b4c8b8349b93e14ecd981cdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: bdb307b422b3963418bb39c077957a5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Papers
+    second: {fileID: 2100000, guid: 5880e6283930b8847a9b208d0dce5fc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Papers 2
+    second: {fileID: 2100000, guid: 4b71e834073e84d42a07277a02b5f92c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Papers 3
+    second: {fileID: 2100000, guid: c3804c11fabb9544991a5dea517e152c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Papers 4
+    second: {fileID: 2100000, guid: 80af5c9567214ca47912d14a370f9964, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
