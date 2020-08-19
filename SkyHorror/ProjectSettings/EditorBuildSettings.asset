@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/MainMenu.unity
+    guid: c5960f464e542b5408d766480e25db0b
+  - enabled: 1
+    path: Assets/Scene/SlotMachine/SlotMachine 5.unity
+    guid: ef4827610e6a02d4c9f99a9a3dcb5d80
+  - enabled: 1
+    path: Assets/Scene/FirstScene.unity
+    guid: 74d87a32dd970154194763adcff7fce4
+  - enabled: 1
+    path: Assets/Scene/SlotMachine/SlotMachine.unity
+    guid: 3867e800286e4584598e34e6bc449bd4
+  - enabled: 1
+    path: Assets/Scene/SecondScene.unity
+    guid: a593409459fb7364a8e2711fd2fa15fe
+  - enabled: 1
+    path: Assets/Scene/SlotMachine/SlotMachine 1.unity
+    guid: 8b6200e4e02bb6e4fa918f2d8ee55b8e
+  - enabled: 1
+    path: Assets/Scene/ThirdScene.unity
+    guid: e2f970f7aa460584788356043eabe6ee
+  - enabled: 1
+    path: Assets/Scene/SlotMachine/SlotMachine 2.unity
+    guid: c30803f4070518d4a8e5762deea9474d
+  - enabled: 1
+    path: Assets/Scene/FourthScene.unity
+    guid: 4ae054cc801e41c4495cc70db820feb4
+  - enabled: 1
+    path: Assets/Scene/SlotMachine/SlotMachine 3.unity
+    guid: f49cffcf3416bf84aa775fc143f68d1e
+  - enabled: 1
+    path: Assets/Scene/FifthScene.unity
+    guid: 469d6feab9633604a8f5828690e3f7a1
+  - enabled: 1
+    path: Assets/Scene/SlotMachine/SlotMachine 4.unity
+    guid: bfca6a56e97cf67408c474d066816e6f
+  - enabled: 1
+    path: Assets/Scene/SixScene.unity
+    guid: 39f2b1c63b10f854799c39b6a387d6e5
+  - enabled: 1
+    path: Assets/Scene/SlotMachine/SlotMachine 6.unity
+    guid: fc0d764bfe65c604e8320d0845f060e2
+  m_configObjects: {}
